@@ -80,12 +80,12 @@ This will process the image at `path_to_your_image.jpg` and generate a descripti
 Our model was evaluated on the VizWiz and MSCOCO Captions datasets. Below are some of the results achieved by our model.
 
 ### Examples
-![resim]()
+![resim](https://github.com/kilcimurat/fusion-image-captioning/blob/main/Screenshot%20from%202024-06-29%2011-21-39.png)
 
 
 ### Result Graph
 Our experimental evaluations demonstrated the effectiveness of fusing high-level visual attributes. Below are the result graphs from our study:
-![resim]()
+![resim](https://github.com/kilcimurat/fusion-image-captioning/blob/main/graph.png)
 
 
 ## Project Structure
