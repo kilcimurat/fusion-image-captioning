@@ -9,6 +9,7 @@ This repository contains the implementation of the image captioning project base
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Result](#result)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
@@ -74,6 +75,18 @@ You can start generating captions for images by running the main script. For exa
 python main.py --image_path path_to_your_image.jpg
 ```
 This will process the image at `path_to_your_image.jpg` and generate a descriptive caption based on the trained model.
+
+## Result
+Our model was evaluated on the VizWiz and MSCOCO Captions datasets. Below are some of the results achieved by our model.
+
+### Examples
+![resim]()
+
+
+### Result Graph
+Our experimental evaluations demonstrated the effectiveness of fusing high-level visual attributes. Below are the result graphs from our study:
+![resim]()
+
 
 ## Project Structure
 
