@@ -1,7 +1,18 @@
 # Fusion Image Captioning
 
-This repository contains the implementation of the image captioning project based on the paper "Fusion of High-Level Visual Attributes for Image Captioning." The project demonstrates how to generate descriptive captions for images using advanced deep learning techniques.
+This is the official codebase for paper: Fusion of High-Level Visual Attributes for Image Captioning [https://dergipark.org.tr/tr/download/article-file/3345449].
 
+
+```
+@article{kilci2023fusion,
+  title={Fusion of High-Level Visual Attributes for Image Captioning},
+  author={Kılcı, Murat and Cayli, Özkan and Kılıç, Volkan},
+  journal={Avrupa Bilim ve Teknoloji Dergisi},
+  number={52},
+  pages={161--168},
+  year={2023}
+}
+```
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -113,19 +124,4 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## References
-
-For more details on the approach and methodology, please refer to the paper: [https://dergipark.org.tr/tr/download/article-file/3345449].
-
-
-```
-@article{kilci2023fusion,
-  title={Fusion of High-Level Visual Attributes for Image Captioning},
-  author={Kılcı, Murat and Cayli, Özkan and Kılıç, Volkan},
-  journal={Avrupa Bilim ve Teknoloji Dergisi},
-  number={52},
-  pages={161--168},
-  year={2023}
-}
-```
 
