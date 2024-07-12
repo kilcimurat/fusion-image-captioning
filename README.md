@@ -115,6 +115,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## References
 
-For more details on the approach and methodology, please refer to the paper:
+For more details on the approach and methodology, please refer to the paper: [https://dergipark.org.tr/tr/download/article-file/3345449].
 
-Kilci, Murat. "Fusion of High-Level Visual Attributes for Image Captioning." [https://dergipark.org.tr/tr/download/article-file/3345449].
+
+```
+@article{kilci2023fusion,
+  title={Fusion of High-Level Visual Attributes for Image Captioning},
+  author={K{\i}lc{\i}, Murat and {\c{C}}ayl{\i}, {\"O}zkan and K{\i}l{\i}{\c{c}}, Volkan},
+  journal={Avrupa Bilim ve Teknoloji Dergisi},
+  number={52},
+  pages={161--168},
+  year={2023},
+  publisher={Osman SA{\u{G}}DI{\c{C}}}
+}
+}
+```
+
