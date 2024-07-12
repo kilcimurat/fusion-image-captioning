@@ -121,13 +121,11 @@ For more details on the approach and methodology, please refer to the paper: [ht
 ```
 @article{kilci2023fusion,
   title={Fusion of High-Level Visual Attributes for Image Captioning},
-  author={K{\i}lc{\i}, Murat and {\c{C}}ayl{\i}, {\"O}zkan and K{\i}l{\i}{\c{c}}, Volkan},
+  author={Kılcı, Murat and Cayli, Özkan and Kılıç, Volkan},
   journal={Avrupa Bilim ve Teknoloji Dergisi},
   number={52},
   pages={161--168},
-  year={2023},
-  publisher={Osman SA{\u{G}}DI{\c{C}}}
-}
+  year={2023}
 }
 ```
 
